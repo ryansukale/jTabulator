@@ -1,0 +1,3 @@
+sortableColumns : Takes an array of column indexes which can be used to sort data.
+chartableColumns : Takes an array of column indexes that can be mapped to a chart.
+chartType : The type of chart to be created for the table if any column is chartable. Values - pie(default), bar
